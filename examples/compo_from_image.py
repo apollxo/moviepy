@@ -1,16 +1,3 @@
-# from moviepy import *
-# from moviepy.video.tools.segmenting import find_objects
-
-
-# # Load the image specifying the regions.
-# im = ImageClip("../../ultracompositing/motif.png")
-
-# # Loacate the regions, return a list of ImageClips
-# regions = find_objects(im)
-
-
-
-
 from moviepy import *
 from moviepy.video.tools.segmenting import find_objects
 
